@@ -1,0 +1,20 @@
+{
+  "name": "csvConverter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto-random-string": "^3.3.0",
+    "csvtojson": "^2.0.10",
+    "express": "^4.17.1",
+    "get-csv": "^3.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
